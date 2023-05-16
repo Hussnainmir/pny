@@ -47,3 +47,13 @@
     width: 30%;
     background-color: blue;
 }
+.subcard3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    height: 30vh;
+    width: 30%;
+    background-color: yellow;
+}
