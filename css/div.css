@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    
+    background-color: aliceblue;
+    
+}
+.card{
+
+    height:50vh;
+    width: 50%;
+    border-radius: 20px;
+    background-color: black;
+    margin: 0 auto;
+    padding: 10px 20px 30px 40px;
+}
+.card-image{
+    background-image: url(../class7.html/assets/download.jfif);
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    margin: 20px 30px 40px 50px;
+    padding: 30px 20px 10px 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

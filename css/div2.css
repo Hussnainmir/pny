@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: black;
+}
+.box{
+    background-color: black;
+    height: 50vh;
+    width: 30%;
+    margin: 0px auto;
+    border: 5px solid;
+    border-radius: 15px;
+    border-top-color: azure;
+    border-bottom-color:yellow ;
+    border-right-color: blue;
+    border-left-color: brown;
+}
+.img{
+    background-image: url(../class7.html/assets/download.jfif);
+    height:25vh ;
+    background-size: cover;
+    background-position: center;
+
+}
+.body{
+    height: 25vh;
+}
+.heading{
+    size: 14vh;
+    color: white;
+}
+.button{
+    height: 10vh;
+    bottom: unset;
+}

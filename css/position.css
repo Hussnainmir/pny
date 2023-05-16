@@ -1,0 +1,134 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+.boxes{
+    width: 1200px;
+    height: 800px;
+  
+}
+.box1{
+    width: 1200px;
+    height: 80%;
+    background-color: blue;
+    position: absolute;
+    top:70px;
+    left: 25px;
+    
+}
+.box2{
+    width: 1000px;
+    height:90%;
+    background-color:white;
+    position: absolute;
+    top:40px;
+    left: 90px;
+}
+.box3{
+    width: 300px;
+    height: 10%;
+    background-color: brown;
+    position: absolute;
+    top: 40px;
+    left: 60px;
+}
+.box4{
+    width: 300px;
+    height: 10%;
+    background-color: brown;
+    position: absolute;
+    top: 40px;
+    right: 60px;
+}
+.box5{
+    width: 300px;
+    height: 10%;
+    background-color: brown;
+    position: absolute;
+    top: 90px;
+    right: 35%;
+}
+.box6{
+    width: 400px;
+    height: 10%;
+    background-color: red;
+    position: absolute;
+    top: 200px;
+    right: 30%;
+}
+.box7{
+    width: 900px;
+    height: 45%;
+    background-color:lightblue;
+    position: absolute;
+    top: 250px;
+    left: 30px;
+}
+.box8{
+    width: 200px;
+    height: 98%;
+    background-color:white;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.box9{
+    width: 200px;
+    height: 98%;
+    background-color:white;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.box10{
+    width: 100px;
+    height: 5%;
+    background-color:black;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.box11{
+    width: 100px;
+    height: 5%;
+    background-color:black;
+    position: absolute;
+    top: 80px;
+    left: 10px;
+}
+.box12{
+    width: 100px;
+    height: 5%;
+    background-color:black;
+    position: absolute;
+    top: 150px;
+    left: 10px;
+}
+.box13{
+    width: 100px;
+    height: 5%;
+    background-color:black;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.box14{
+    width: 100px;
+    height: 5%;
+    background-color:black;
+    position: absolute;
+    top: 80px;
+    left: 10px;
+}
+.box15{
+    width: 100px;
+    height: 5%;
+    background-color:black;
+    position: absolute;
+    top: 150px;
+    left: 10px;
+}
